@@ -1,0 +1,178 @@
+{
+    "8538 Green Street LLC": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "AMA Communications, LLC": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "AT&T Spectrum Frontiers LLC": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "Agri-Valley Communications, Inc.": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "Bluegrass Consortium": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "Cal.net, Inc.": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "California Internet, L.P. dba GeoLinks": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "Canopy Spectrum, LLC": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "Carolina West Wireless, Inc.": {
+        "has_spitefulness": "True",
+        "alpha_hat": 0.8
+    },
+    "Cellco Partnership": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "Cellular South Licenses, LLC": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "Central Texas Telephone Investments, LP": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "Cox Communications , Inc.": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "Cross Telephone Company, L.L.C.": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "East Kentucky Network, LLC": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "Etheric Networks Incorporated": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "FTC Management Group, Inc.": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "Grand River Communications, Inc.": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "Granite Wireless LLC": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "Hilliary Acquisition Corp 2016, LLC": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "Horry Telephone Cooperative, Inc.": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "LICT Wireless Broadband Company, LLC": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "Little Bear Wireless L.L.C.": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "MB License Co LLC": {
+        "has_spitefulness": "True",
+        "alpha_hat": 0.6000000000000001
+    },
+    "Mountain West Technologies Corporation": {
+        "has_spitefulness": "True",
+        "alpha_hat": 0.35000000000000003
+    },
+    "NE Colorado Cellular, Inc.": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "NewLevel II, L.P.": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "Nex-Tech Wireless, L.L.C.": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "Northern Valley Communications, LLC": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "Nsight Spectrum, LLC": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "PVT Networks, Inc.": {
+        "has_spitefulness": "True",
+        "alpha_hat": 0.65
+    },
+    "Pine Cellular Phones, Inc.": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "Pioneer Telephone Cooperative, Inc.": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "Resound Networks, LLC": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "Skylake Wireless, LLC": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "Smith Bagley, Inc.": {
+        "has_spitefulness": "True",
+        "alpha_hat": 0.65
+    },
+    "T-Mobile License LLC": {
+        "has_spitefulness": "True",
+        "alpha_hat": 0.7000000000000001
+    },
+    "Tarkus Enterprises, LLC dba Zumacom": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "Uintah Basin Electronic Telecommunications, LLC": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "Union Telephone Company": {
+        "has_spitefulness": "True",
+        "alpha_hat": 0.55
+    },
+    "United States Cellular Corporation": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "Universal Electrical Contractors": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "Whitewater Wireless, L.P.": {
+        "has_spitefulness": "False",
+        "alpha_hat": 0.0
+    },
+    "Widespread Wireless, LLC": {
+        "has_spitefulness": "True",
+        "alpha_hat": 0.7000000000000001
+    }
+}
